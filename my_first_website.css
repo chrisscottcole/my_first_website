@@ -1,0 +1,121 @@
+/*These apply to all pages*/
+
+.siteLogo {
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    background-color:aqua;
+    padding: 20px;
+}
+
+.pageMenu {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+/* margin-left:5%;
+margin-right:5%; */
+display:flex;
+padding-left:5%;
+padding-right:5%;
+justify-content:space-between;
+border-top: 1px dotted blue;
+border-bottom: 1px dotted blue;
+
+}
+
+.footerMenu {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+/* margin-left:5%;
+margin-right:5%; */
+display:flex;
+padding-left:5%;
+padding-right:5%;
+justify-content:space-between;
+border-top: 1px dotted blue;
+border-bottom: 1px dotted blue;
+
+}
+
+#page1 {
+   /* display:inline;
+    text-align:center;
+    background-color: yellow*/;
+
+}
+
+#page2 { /*display:inline;
+    background-color: aquamarine;
+
+text-align:center*/;
+}
+
+#page3 {
+/*background-color:aqua*/;
+}
+S
+#page4 {
+/*background-color:green;*/
+}
+
+/*Page Specific*/
+
+/*Page 1*/
+
+.pageOneTitle {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+
+}
+
+.sectionHeader { font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:15%;
+    margin-right:15%;
+
+}
+
+.headerImage {
+
+}
+
+.bodyText { font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:large;
+    margin-left: 16%;
+    margin-right: 16%;
+
+}
+
+/*Page 2*/
+
+.pageTwoTitle {  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.survey {  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.surveyText {  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.selectionText {  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+/*Page 3*/
+
+.pageThreeTitle {  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.listText {  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+/*Page 4*/
+
+.pageFourTitle {  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.pageFourImage {
+
+}
